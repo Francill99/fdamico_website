@@ -55,3 +55,22 @@ website:
     left: "© 2025 Francesco D'Amico"
     right: |
       Built with <a href="https://quarto.org" target="_blank" rel="noopener">Quarto</a>
+
+website:
+  site-url: "https://francill99.github.io/fdamico_website/"
+  open-graph: true
+  twitter-card: true
+
+format:
+  html:
+    include-in-header:
+      text: |
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-XXXXXXX');
+        </script>
+
