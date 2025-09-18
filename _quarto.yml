@@ -17,5 +17,41 @@ format:
     css: styles.css
     toc: true
 
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    toc-title: Contents
+    smooth-scroll: true
+    css: styles.css
+    code-copy: true
 
-
+website:
+  title: "Francesco D'Amico"
+  description: "Statistical mechanics of learning · PhD @ Sapienza"
+  navbar:
+    left:
+      - text: About
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Talks
+        href: talks.qmd
+      - text: CV
+        href: cv/CV_09_25.pdf
+    right:
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/Francill99
+      - icon: envelope
+        aria-label: Email
+        href: "mailto:francesco.damico@uniroma1.it"
+  page-footer:
+    left: "© 2025 Francesco D'Amico"
+    right: |
+      Built with <a href="https://quarto.org" target="_blank" rel="noopener">Quarto</a>
