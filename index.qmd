@@ -1,5 +1,7 @@
 ---
-title: "fdamico_website"
+title: "About"
+image: images/profile.jpg
+page-layout: article
 ---
 
 This is a Quarto website.
