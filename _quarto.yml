@@ -2,36 +2,12 @@ project:
   type: website
 
 website:
-  title: "fdamico_website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-format:
-  html:
-    theme:
-      light: flatly
-      dark: darkly
-    toc: true
-    toc-depth: 3
-    toc-title: Contents
-    smooth-scroll: true
-    css: styles.css
-    code-copy: true
-
-website:
   title: "Francesco D'Amico"
   description: "Statistical mechanics of learning · PhD @ Sapienza"
+  favicon: favicon.png
+  site-url: "https://francill99.github.io/fdamico_website/"
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - text: About
@@ -56,13 +32,17 @@ website:
     right: |
       Built with <a href="https://quarto.org" target="_blank" rel="noopener">Quarto</a>
 
-website:
-  site-url: "https://francill99.github.io/fdamico_website/"
-  open-graph: true
-  twitter-card: true
-
 format:
   html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    toc-title: Contents
+    smooth-scroll: true
+    css: styles.css
+    code-copy: true
     include-in-header:
       text: |
         <!-- Google tag (gtag.js) -->
