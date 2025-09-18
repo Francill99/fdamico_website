@@ -1,1 +1,21 @@
-/* css styles */
+/* Better readability */
+body { line-height: 1.65; }
+
+/* Title banner refinement */
+.quarto-title-banner { padding: 2.5rem 0; }
+
+/* Links: remove heavy underline, keep accessibility */
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Narrow max width for text pages */
+.main-content { max-width: 900px; margin: 0 auto; }
+
+/* Tweak navbar weight */
+.navbar-brand { font-weight: 700; }
+
+/* Card-like lists (for publications/talks if you use lists) */
+.pub-item, .talk-item {
+  padding: 0.8rem 1rem; border-radius: 12px; 
+  border: 1px solid rgba(0,0,0,0.06); margin-bottom: 0.6rem;
+}
