@@ -4,6 +4,24 @@ project:
 website:
   title: "Francesco D'Amico"
   description: "Statistical mechanics of learning · PhD @ Sapienza"
+  navbar:
+    left:
+      - text: About
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+    right:
+      - icon: github
+        href: https://github.com/Francill99
+      - icon: envelope
+        href: "mailto:francesco.damico@uniroma1.it"
+
+
+website:
+  title: "Francesco D'Amico"
+  description: "Statistical mechanics of learning · PhD @ Sapienza"
   favicon: favicon.png
   site-url: "https://francill99.github.io/fdamico_website/"
   open-graph: true
@@ -14,19 +32,14 @@ website:
         href: index.qmd
       - text: Research
         href: research.qmd
-      - text: Publications
-        href: publications.qmd
-      - text: Talks
-        href: talks.qmd
-      - text: CV
-        href: cv/CV_09_25.pdf
+      - text: Teaching
+        href: teaching.qmd
     right:
       - icon: github
-        aria-label: GitHub
         href: https://github.com/Francill99
       - icon: envelope
-        aria-label: Email
         href: "mailto:francesco.damico@uniroma1.it"
+      -text: francesco.damico AT uniroma1.it
   page-footer:
     left: "© 2025 Francesco D'Amico"
     right: |
