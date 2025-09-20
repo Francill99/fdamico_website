@@ -3,10 +3,15 @@ name: Update publications from Scholar
 on:
   schedule:
     - cron: "0 4 * * 1"      # Mondays 04:00 UTC
-  workflow_dispatch:         # allow manual run from Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write       # needed to push built site / updates
+  pages: write          # (optional) if using GitHub Pages deploy
+  id-token: write       # (optional) for pages OIDC
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,15 +30,16 @@ jobs:
         run: |
           python scripts/update_scholar_bib.py fcoliR8AAAAJ
 
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v3
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render site
-        uses: quarto-dev/quarto-actions/render@v3
+        uses: quarto-dev/quarto-actions/render@v2
 
-      - name: Publish to GitHub Pages
-        uses: quarto-dev/quarto-actions/publish@v3
+      - name: Publish to GitHub Pages (gh-pages branch)
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
