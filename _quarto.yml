@@ -8,20 +8,28 @@ website:
   site-url: "https://francill99.github.io/fdamico_website/"
   open-graph: true
   twitter-card: true
-  navbar:
+navbar:
     left:
-      - text: About
-        href: index.qmd
-      - text: Research
-        href: research.qmd
-      - text: Teaching
-        href: teaching.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        menu:
+          - text: "Publications"
+            href: publications.qmd
+          - text: "Projects"
+            href: projects.qmd
+          - text: "Talks and Posters"
+            href: talks.qmd
+      - text: "Teaching"
+        menu:
+          - text: "Tutoring"
+            href: tutoring.qmd
     right:
       - icon: github
         href: https://github.com/Francill99
       - icon: envelope
         href: "mailto:francesco.damico@uniroma1.it"
-      - text: francesco.damico AT uniroma1.it
+        - text: francesco.damico AT uniroma1.it
   page-footer:
     left: "© 2025 Francesco D'Amico"
     right: |
