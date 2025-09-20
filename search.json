@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
+    "objectID": "tutoring.html",
+    "href": "tutoring.html",
+    "title": "Tutoring",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Settimana 1:\n\n\n\n\n\nEsercizi Set 1 — Derivate\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
+  },
+  {
+    "objectID": "tutoring.html#analisi-1-per-fisica",
+    "href": "tutoring.html#analisi-1-per-fisica",
+    "title": "Tutoring",
+    "section": "",
+    "text": "Settimana 1:\n\n\n\n\n\nEsercizi Set 1 — Derivate\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
+  },
+  {
+    "objectID": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
+    "href": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
+    "title": "Tutoring",
+    "section": "Calcolo e statistica per Biotecnologie",
+    "text": "Calcolo e statistica per Biotecnologie\n\nProgramma & calendario\n\nSettimana 1: Richiami di calcolo (funzioni, derivate, integrali)\n\n\n\nDispense ed esercizi\n\nEsercizi Set 1 — Derivate\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
   },
   {
     "objectID": "about.html",
@@ -40,5 +54,12 @@
     "title": "About",
     "section": "Download CV",
     "text": "Download CV\n\nEnglish CV\n\nItalian Europass CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
