@@ -1,9 +1,12 @@
 ---
 title: "Publications"
 bibliography: publications.bib
-csl: csl/with-annote.csl
+# use a fully valid CSL by URL (APA here; swap to Nature/PRL if you prefer)
+csl: https://www.zotero.org/styles/apa
 nocite: |
-  @*                    # include all items in the .bib
+  @*          # include every entry in publications.bib
+filters:
+  - filters/annote.lua
 format:
   html:
     toc: true
