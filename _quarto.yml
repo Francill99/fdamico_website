@@ -29,8 +29,7 @@ website:
       - icon: github
         href: https://github.com/Francill99
       - icon: envelope
-        href: "mailto:francesco.damico@uniroma1.it"
-      - text: "francesco.damico AT uniroma1.it"
+        text: "francesco.damico@uniroma1.it"
         href: "mailto:francesco.damico@uniroma1.it"
 
   page-footer:
