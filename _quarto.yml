@@ -27,7 +27,7 @@ website:
             href: tutoring.qmd
     right:
       - icon: github
-        text: personal github page
+        text: GitHub
         href: https://github.com/Francill99
       - icon: envelope
         text: "francesco.damico@uniroma1.it"
