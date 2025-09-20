@@ -11,6 +11,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Profile picture"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nThe role of data structure in training machine learning models\n\nAssociative memories and Transformer-inspired architectures\n\nAlgorithms for approximate likelihoods in energy-based models\n\nOptimization and inference in hard computational tasks"
+  },
+  {
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "About",
+    "section": "Academic Background",
+    "text": "Academic Background\n\nPhD in Physics, Sapienza University of Rome (2023–2026)\n\nMaster’s Degree in Theoretical Physics, Sapienza University of Rome, 110/110 cum laude (2023)\n\nBachelor’s Degree in Physics, Sapienza University of Rome, 110/110 cum laude (2021)\n\nVisiting PhD student, Complutense University of Madrid (2025)"
+  },
+  {
+    "objectID": "about.html#highlights",
+    "href": "about.html#highlights",
+    "title": "About",
+    "section": "Highlights",
+    "text": "Highlights\n\nSpeaker at StatPhys29 (Florence), Roccella Conference on Inference and AI, and Cargese Summer School on Complex and Glassy Systems\n\nPublications under review on Hopfield networks, scaling laws, and combinatorial optimization\n\nActive in teaching and tutoring for mathematics and physics students"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\n📧 francesco.damico@uniroma1.it\n\n💻 GitHub\n\n📑 Google Scholar"
+  },
+  {
+    "objectID": "about.html#download-cv",
+    "href": "about.html#download-cv",
+    "title": "About",
+    "section": "Download CV",
+    "text": "Download CV\n\nEnglish CV\n\nItalian Europass CV"
   }
 ]
