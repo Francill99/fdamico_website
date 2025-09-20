@@ -4,14 +4,14 @@ title: "About"
 
 ![Profile picture](images/profile.jpg){width=180px style="border-radius: 50%; float: right; margin-left: 20px;"}
 
-Hello! I am **Francesco D’Amico**, a PhD student in Physics at **Sapienza University of Rome**, where I work under the supervision of Matteo Negri and Chiara Cammarota.  
-My research lies at the intersection of **statistical mechanics, machine learning, and complex systems**, with a focus on how ideas from physics can illuminate modern AI and vice versa.  
+Hello! I am **Francesco D’Amico**, a PhD student in Physics at **Sapienza University of Rome**, where I work under the supervision of Matteo Negri and Chiara Cammarota on the topic of **statistical theory of learning**.  
+My research lies at the intersection of **statistical mechanics, machine learning, and complex systems**.   
 
 ---
 
 ## Research Interests
-- The role of **data structure** in training machine learning models  
-- **Associative memories** and Transformer-inspired architectures  
+- The role of **data structure** in training machine learning models and **neural scaling laws**. 
+- **Associative memories** and **Transformer**-inspired architectures  
 - Algorithms for **approximate likelihoods** in energy-based models  
 - **Optimization and inference** in hard computational tasks  
 
@@ -28,7 +28,7 @@ My research lies at the intersection of **statistical mechanics, machine learnin
 ## Contact
 - 📧 [francesco.damico@uniroma1.it](mailto:francesco.damico@uniroma1.it)  
 - 💻 [GitHub](https://github.com/Francill99)  
-- 📑 [Google Scholar](https://scholar.google.com/citations?user=fcoliR8AAAAJ&hl=it&oi=ao)  
+- 📑 [Google Scholar](https://scholar.google.com/citations?user=fcoliR8AAAAJ&hl=it)  
 
 ---
 
