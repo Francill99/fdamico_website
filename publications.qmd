@@ -1,0 +1,13 @@
+---
+title: "Publications"
+bibliography: publications.bib
+csl: csl/with-annote.csl
+nocite: |
+  @*                    # include all items in the .bib
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+# Publications
