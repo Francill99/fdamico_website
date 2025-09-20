@@ -8,7 +8,8 @@ website:
   site-url: "https://francill99.github.io/fdamico_website/"
   open-graph: true
   twitter-card: true
-navbar:
+
+  navbar:
     left:
       - text: "About"
         href: about.qmd
@@ -29,8 +30,10 @@ navbar:
         href: https://github.com/Francill99
       - icon: envelope
         href: "mailto:francesco.damico@uniroma1.it"
-      - text: francesco.damico AT uniroma1.it
-page-footer:
+      - text: "francesco.damico AT uniroma1.it"
+        href: "mailto:francesco.damico@uniroma1.it"
+
+  page-footer:
     left: "© 2025 Francesco D'Amico"
     right: |
       Built with <a href="https://quarto.org" target="_blank" rel="noopener">Quarto</a>
@@ -56,4 +59,3 @@ format:
           gtag('js', new Date());
           gtag('config', 'G-XXXXXXX');
         </script>
-
