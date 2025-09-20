@@ -27,17 +27,10 @@ My research lies at the intersection of **statistical mechanics, machine learnin
 
 ---
 
-## Highlights
-- Speaker at **StatPhys29 (Florence)**, **Roccella Conference on Inference and AI**, and **Cargese Summer School on Complex and Glassy Systems**  
-- Publications under review on **Hopfield networks, scaling laws, and combinatorial optimization**  
-- Active in teaching and tutoring for mathematics and physics students  
-
----
-
 ## Contact
 - 📧 [francesco.damico@uniroma1.it](mailto:francesco.damico@uniroma1.it)  
 - 💻 [GitHub](https://github.com/Francill99)  
-- 📑 [Google Scholar](https://scholar.google.com)  
+- 📑 [Google Scholar](https://scholar.google.com/citations?user=fcoliR8AAAAJ&hl=it&oi=ao)  
 
 ---
 
