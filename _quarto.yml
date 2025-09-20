@@ -30,7 +30,7 @@ navbar:
       - icon: envelope
         href: "mailto:francesco.damico@uniroma1.it"
       - text: francesco.damico AT uniroma1.it
-  page-footer:
+page-footer:
     left: "© 2025 Francesco D'Amico"
     right: |
       Built with <a href="https://quarto.org" target="_blank" rel="noopener">Quarto</a>
