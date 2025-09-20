@@ -29,7 +29,7 @@ navbar:
         href: https://github.com/Francill99
       - icon: envelope
         href: "mailto:francesco.damico@uniroma1.it"
-        - text: francesco.damico AT uniroma1.it
+      - text: francesco.damico AT uniroma1.it
   page-footer:
     left: "© 2025 Francesco D'Amico"
     right: |
