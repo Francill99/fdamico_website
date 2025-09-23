@@ -1,9 +1,11 @@
 ---
 title: "Publications"
 bibliography: publications.bib
-csl: csl/with-annote.csl
+csl: https://www.zotero.org/styles/apa
 nocite: |
-  @*    # list all entries
+  @*     # list all entries in the .bib
+filters:
+  - filters/bibsort_and_annote.lua
 format:
   html:
     toc: true
@@ -13,6 +15,4 @@ format:
 Below is a complete list of my publications. Each item includes a brief *italic* note.
 
 # Publications
-
-
 
