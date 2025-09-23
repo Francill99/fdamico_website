@@ -56,6 +56,20 @@
     "text": "Download CV\n\nEnglish CV\n\nItalian Europass CV"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\nAngelini, M., Avila-González, M., D’Amico, F., Machado, D., Mulet, R., & Ricci-Tersenghi, F. (2025). Algorithmic thresholds in combinatorial optimization depend on the time scaling. arXiv Preprint arXiv:2504.11174.\n\n\nD’Amico, F., Bocchi, D., Del Bono, L. M., Rossi, S., & Negri, M. (2025). Pseudo-likelihood produces associative memories able to generalize, even for asymmetric couplings. arXiv Preprint arXiv:2507.05147.\n\n\nD’Amico, F., Bocchi, D., & Negri, M. (2025). Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks. arXiv Preprint arXiv:2505.13230.\n\n\nD’Amico, F., & Negri, M. (2024). Self-attention as an attractor network: Transient memories without backpropagation. 2024 IEEE Workshop on Complexity in Engineering (COMPENG), 1–6.\n\n\nNicoletti, F., D’Amico, F., & Negri, M. (2025). Statistical mechanics of vector hopfield network near and above saturation. arXiv Preprint arXiv:2507.02586."
+  },
+  {
+    "objectID": "talks.html#section-1",
+    "href": "talks.html#section-1",
+    "title": "Talks and Posters",
+    "section": "2024",
+    "text": "2024\n\nTalks\n\nSelf-attention as an attractor network: transient memories without backpropagation\nSISSA Journal Club — Trieste, 11/10/2024\n🔽 Download slides{download target=“_blank”}\n\n\n\nPosters"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
