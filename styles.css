@@ -19,3 +19,25 @@ a:hover { text-decoration: underline; }
   padding: 0.8rem 1rem; border-radius: 12px; 
   border: 1px solid rgba(0,0,0,0.06); margin-bottom: 0.6rem;
 }
+
+/* Make bibliography look like a bulleted list */
+.csl-bib-body .csl-entry {
+  position: relative;
+  padding-left: 1.1em;     /* space for the bullet */
+  margin: 0.3em 0 0.9em;   /* breathing room */
+}
+
+.csl-bib-body .csl-entry::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  top: 0;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+/* TL;DR label styling */
+.tldr-label {
+  color: #0d6efd;          /* bootstrap primary blue */
+  font-weight: 600;
+}
