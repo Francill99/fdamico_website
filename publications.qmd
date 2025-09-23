@@ -12,7 +12,5 @@ format:
     toc-depth: 2
 ---
 
-Below is a complete list of my publications. Each item includes a brief *italic* note.
-
-# Publications
+Below is a complete list of my publications. 
 
