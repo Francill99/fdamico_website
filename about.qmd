@@ -33,5 +33,5 @@ My research lies at the intersection of **statistical mechanics, machine learnin
 ---
 
 ## Download CV
-- [English CV](docs/CV_English.pdf)  
-- [Italian Europass CV](docs/CV_Italian.pdf)  
+- [English CV](docs/CV_english.pdf)  
+- [Italian Europass CV](docs/CV_italian.pdf)  
