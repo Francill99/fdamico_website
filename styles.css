@@ -20,13 +20,12 @@ a:hover { text-decoration: underline; }
   border: 1px solid rgba(0,0,0,0.06); margin-bottom: 0.6rem;
 }
 
-/* Make bibliography look like a bulleted list */
+/* Bullet look for bibliography entries */
 .csl-bib-body .csl-entry {
   position: relative;
-  padding-left: 1.1em;     /* space for the bullet */
-  margin: 0.3em 0 0.9em;   /* breathing room */
+  padding-left: 1.1em;
+  margin: 0.3em 0 0.9em;
 }
-
 .csl-bib-body .csl-entry::before {
   content: "•";
   position: absolute;
@@ -36,8 +35,8 @@ a:hover { text-decoration: underline; }
   font-weight: 700;
 }
 
-/* TL;DR label styling */
+/* Blue TL;DR label */
 .tldr-label {
-  color: #0d6efd;          /* bootstrap primary blue */
+  color: #0d6efd;
   font-weight: 600;
 }
