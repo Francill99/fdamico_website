@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "tutoring.html",
-    "href": "tutoring.html",
-    "title": "Tutoring",
-    "section": "",
-    "text": "Settimana 1:\n\n\n\n\n\nEsercizi Set 1 — Derivate\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
-  },
-  {
-    "objectID": "tutoring.html#analisi-1-per-fisica",
-    "href": "tutoring.html#analisi-1-per-fisica",
-    "title": "Tutoring",
-    "section": "",
-    "text": "Settimana 1:\n\n\n\n\n\nEsercizi Set 1 — Derivate\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
-  },
-  {
-    "objectID": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
-    "href": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
-    "title": "Tutoring",
-    "section": "Calcolo e statistica per Biotecnologie",
-    "text": "Calcolo e statistica per Biotecnologie\n\nProgramma & calendario\n\nSettimana 1: Richiami di calcolo (funzioni, derivate, integrali)\n\n\n\nDispense ed esercizi\n\nEsercizi Set 1 — Derivate\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -56,13 +35,6 @@
     "text": "Download CV\n\nEnglish CV\n\nItalian Europass CV"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Below is a complete list of my publications.\n\n\n\n\nReferences\n\nAngelini, M., Avila-González, M., D’Amico, F., Machado, D., Mulet, R., & Ricci-Tersenghi, F. (2025). Algorithmic thresholds in combinatorial optimization depend on the time scaling. arXiv Preprint arXiv:2504.11174.\n\n\nD’Amico, F., Bocchi, D., Del Bono, L. M., Rossi, S., & Negri, M. (2025). Pseudo-likelihood produces associative memories able to generalize, even for asymmetric couplings. arXiv Preprint arXiv:2507.05147.\n\n\nD’Amico, F., Bocchi, D., & Negri, M. (2025). Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks. arXiv Preprint arXiv:2505.13230.\n\n\nD’Amico, F., & Negri, M. (2024). Self-attention as an attractor network: Transient memories without backpropagation. 2024 IEEE Workshop on Complexity in Engineering (COMPENG), 1–6.\n\n\nNicoletti, F., D’Amico, F., & Negri, M. (2025). Statistical mechanics of vector hopfield network near and above saturation. arXiv Preprint arXiv:2507.02586."
-  },
-  {
     "objectID": "talks.html#section-1",
     "href": "talks.html#section-1",
     "title": "Talks and Posters",
@@ -75,5 +47,33 @@
     "title": "About",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "tutoring.html",
+    "href": "tutoring.html",
+    "title": "Tutoring",
+    "section": "",
+    "text": "Settimana 1:\n\n\n\n\n\nEsercizi Set 1 — Derivate\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
+  },
+  {
+    "objectID": "tutoring.html#analisi-1-per-fisica",
+    "href": "tutoring.html#analisi-1-per-fisica",
+    "title": "Tutoring",
+    "section": "",
+    "text": "Settimana 1:\n\n\n\n\n\nEsercizi Set 1 — Derivate\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
+  },
+  {
+    "objectID": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
+    "href": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
+    "title": "Tutoring",
+    "section": "Calcolo e statistica per Biotecnologie",
+    "text": "Calcolo e statistica per Biotecnologie\n\nProgramma & calendario\n\nSettimana 1: Richiami di calcolo (funzioni, derivate, integrali)\n\n\n\nDispense ed esercizi\n\nEsercizi Set 1 — Derivate\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a complete list of my publications.\n\n\n\n\nReferences\n\nAngelini, M., Avila-González, M., D’Amico, F., Machado, D., Mulet, R., & Ricci-Tersenghi, F. (2025). Algorithmic thresholds in combinatorial optimization depend on the time scaling. arXiv Preprint arXiv:2504.11174.\n\n\nD’Amico, F., Bocchi, D., Del Bono, L. M., Rossi, S., & Negri, M. (2025). Pseudo-likelihood produces associative memories able to generalize, even for asymmetric couplings. arXiv Preprint arXiv:2507.05147.\n\n\nD’Amico, F., Bocchi, D., & Negri, M. (2025). Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks. arXiv Preprint arXiv:2505.13230.\n\n\nD’Amico, F., & Negri, M. (2024). Self-attention as an attractor network: Transient memories without backpropagation. 2024 IEEE Workshop on Complexity in Engineering (COMPENG), 1–6.\n\n\nNicoletti, F., D’Amico, F., & Negri, M. (2025). Statistical mechanics of vector hopfield network near and above saturation. arXiv Preprint arXiv:2507.02586."
   }
 ]
