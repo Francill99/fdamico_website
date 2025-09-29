@@ -3,15 +3,18 @@ title: "Publications"
 bibliography: publications.bib
 csl: https://www.zotero.org/styles/apa
 nocite: |
-  @*     # list all entries in the .bib
+  @*
 filters:
-  - filters/bibsort_and_annote.lua
+  - filters/bibsort_and_tldr.lua
 format:
   html:
     toc: true
     toc-depth: 2
     citation-links: true
 ---
+
+# Publications
+
 
 Below is a complete list of my publications. 
 
