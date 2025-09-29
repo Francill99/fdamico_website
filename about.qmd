@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![Profile picture](files/profile.png){width=180px style="border-radius: 50%; float: right; margin-left: 20px;"}
+![](files/profile.png){width=180px style="border-radius: 50%; float: right; margin-left: 20px;"}
 
 Hello! I am **Francesco D’Amico**, a PhD student in Physics at **Sapienza University of Rome**, where I work under the supervision of Matteo Negri and Chiara Cammarota on the topic of **statistical theory of learning**.  
 My research lies at the intersection of **statistical mechanics, machine learning, and complex systems**.   
