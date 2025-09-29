@@ -33,6 +33,9 @@ jobs:
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Clean Quarto cache
+        run: quarto clean
+
       - name: Render site
         uses: quarto-dev/quarto-actions/render@v2
 
