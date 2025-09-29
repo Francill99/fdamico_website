@@ -13,8 +13,7 @@ format:
     citation-links: true
 ---
 
-# Publications
 
+Below is a complete list of my publications.
 
-Below is a complete list of my publications. 
 
