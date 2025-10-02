@@ -12,19 +12,19 @@ format:
 
 - **Scaling laws, from Perceptrons to Deep Networks**
   Chimera group Journal Club - Sapienza, **07/10/2025**
-🔽 [Slides](files/talks/2025/chimera_journal_club_slides.pdf)
+\\ 🔽 [Slides](files/talks/2025/chimera_journal_club_slides.pdf)
 
 ### Posters
 
 - **Pseudo-likelihood produces associative memories able to generalize, even for asymmetric couplings**
   Mathematical Methods for High-Dimensional Data, Sapienza University of Rome, **8-12/09/25**
-  STATPHYS29, Firenze, **13-17/07/25**
+  \\STATPHYS29, Firenze, **13-17/07/25**
 🔽 [Poster](files/talks/2025/PL_poster.pdf)
 
 - **Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks**
   ROccella Conference on Inference and AI, Roccella Ionica, **1-5/09/25**
-  Learning and Optimization in High Dimensions, Bocconi Univeristy, Milano, **8-11/07/25**
-  Beg Rohu summer school, Saint-Pierre-Quiberon, **2-14/06/25**
+  \\Learning and Optimization in High Dimensions, Bocconi Univeristy, Milano, **8-11/07/25**
+  \\Beg Rohu summer school, Saint-Pierre-Quiberon, **2-14/06/25**
 🔽 [Poster](files/talks/2025/PW_poster.pdf)
 
 
