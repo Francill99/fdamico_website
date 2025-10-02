@@ -10,7 +10,7 @@ My research lies at the intersection of **statistical mechanics, machine learnin
 ---
 
 ## Research Interests
-- The role of **data structure** in training machine learning models and **neural scaling laws**. 
+- **Data structure** role in machine learning and **neural scaling laws**. 
 - **Associative memories** and **Transformer**-inspired architectures  
 - Algorithms for **approximate likelihoods** in energy-based models  
 - **Optimization and inference** in hard computational tasks  
@@ -21,6 +21,7 @@ My research lies at the intersection of **statistical mechanics, machine learnin
 - **PhD in Physics**, Sapienza University of Rome (2023–2026)  
 - **Visiting PhD student**, Complutense University of Madrid (2025) 
 - **Master’s Degree in Theoretical Physics**, Sapienza University of Rome, *110/110 cum laude* (2021-2023)  
+- **Physics department excellence program**, Sapienza University of Rome (2018-2023) 
 - **Bachelor’s Degree in Physics**, Sapienza University of Rome, *110/110 cum laude* (2018-2021)  
  
 ---
