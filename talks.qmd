@@ -12,7 +12,7 @@ format:
 
 - **Scaling laws, from Perceptrons to Deep Networks** 🔽 [Slides](files/talks/2025/chimera_journal_club_slides.pdf)
 
-  Chimera group Journal Club - Sapienza, **07/10/2025** 
+  Chimera group Journal Club - Sapienza University of Rome, **07/10/2025** 
 
 ### Posters
 
