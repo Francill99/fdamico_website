@@ -2,7 +2,6 @@ project:
   type: website
 
 website:
-  title: "Francesco D'Amico"
   description: "Statistical mechanics of learning · PhD @ Sapienza"
   favicon: favicon.png
   site-url: "https://francill99.github.io/fdamico_website/"
