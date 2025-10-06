@@ -11,7 +11,7 @@ My research lies at the intersection of **statistical mechanics, machine learnin
 
 ## Research Interests
 - **Data structure** role in machine learning and **neural scaling laws**. 
-- **Associative memories** and **Transformer**-inspired architectures  
+- **Associative memories** and **Transformer**-class architectures  
 - Algorithms for **approximate likelihoods** in energy-based models  
 - **Optimization and inference** in hard computational tasks  
 
