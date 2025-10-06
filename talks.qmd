@@ -10,7 +10,7 @@ format:
 
 ### Talks
 
-- **Scaling laws, from Perceptrons to Deep Networks** 🔽 [Slides](files/talks/2025/Presentazione_neural_scaling_laws.pdf.pdf)
+- **Scaling laws, from Perceptrons to Deep Networks** 🔽 [Slides](files/talks/2025/Presentazione_neural_scaling_laws.pdf)
 
   Chimera group Journal Club - Sapienza University of Rome, **07/10/2025** 
 
