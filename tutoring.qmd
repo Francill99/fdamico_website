@@ -9,20 +9,15 @@ format:
 ## Analisi 1 per Fisica
 
 ### Programma & calendario
-- **Settimana 1:** 
+- Work in progress
 
 ### Dispense ed esercizi
-- Esercizi Set 1 — *Derivate*  
+- Work in progress  
   🔗 [Visualizza PDF](files/tutoring/analisi1/esercizi_set_01_derivate.pdf){target="_blank"}  
   🔽 [Scarica PDF](files/tutoring/analisi1/esercizi_set_01_derivate.pdf){download}
 
 ## Calcolo e statistica per Biotecnologie
 
-### Programma & calendario
-- **Settimana 1:** Richiami di calcolo (funzioni, derivate, integrali)  
-
 ### Dispense ed esercizi
-- Esercizi Set 1 — *Derivate*  
-  🔗 [Visualizza PDF](files/tutoring/analisi1/esercizi_set_01_derivate.pdf){target="_blank"}  
-  🔽 [Scarica PDF](files/tutoring/analisi1/esercizi_set_01_derivate.pdf){download}
+- Work in progress
 
