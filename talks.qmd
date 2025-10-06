@@ -10,7 +10,7 @@ format:
 
 ### Talks
 
-- **Scaling laws, from Perceptrons to Deep Networks** 🔽 [Slides](files/talks/2025/chimera_journal_club_slides.pdf)
+- **Scaling laws, from Perceptrons to Deep Networks** 🔽 [Slides](files/talks/2025/Presentazione_neural_scaling_laws.pdf.pdf)
 
   Chimera group Journal Club - Sapienza University of Rome, **07/10/2025** 
 
@@ -34,7 +34,7 @@ format:
 
 ### Talks
 
-- *Self-attention as an attractor network: transient memories without backpropagation*  🔽 [Slides](files/talks/2024/sissa_journal_club_2024_slides.pdf)
+- *Self-attention as an attractor network: transient memories without backpropagation*  🔽 [Slides](files/talks/2024/SISSA_HSA.pdf)
 
   SISSA Journal Club — Trieste, **11/10/2024**  
   
