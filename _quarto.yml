@@ -3,7 +3,7 @@ project:
 
 website:
   description: "Statistical mechanics of learning · PhD @ Sapienza"
-  favicon: images/logo_fd.svg
+  favicon: images/logo_no_borders.png
   site-url: "https://francill99.github.io/fdamico_website/"
   open-graph: true
   twitter-card: true
