@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Tecniche osservative e modellistiche per lo studio dell’atmosfera e del clima (Observative and theoretical techniques for the study of atmosphere and climate) 🔽 Slides\n\n\n\n\n\nThe random features p-spin Hopfield model 🔽 Poster\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning 🔽 Poster\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes 🔽 Poster"
-  },
-  {
-    "objectID": "projects.html#masters-degree",
-    "href": "projects.html#masters-degree",
-    "title": "Projects",
-    "section": "",
-    "text": "Tecniche osservative e modellistiche per lo studio dell’atmosfera e del clima (Observative and theoretical techniques for the study of atmosphere and climate) 🔽 Slides\n\n\n\n\n\nThe random features p-spin Hopfield model 🔽 Poster\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning 🔽 Poster\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes 🔽 Poster"
-  },
-  {
-    "objectID": "projects.html#bachelor-degree",
-    "href": "projects.html#bachelor-degree",
-    "title": "Projects",
-    "section": "Bachelor degree",
-    "text": "Bachelor degree\n\nExcellence program\n\nGreen method\nStudy of a one-dimensional oscillator with a general force applied 🔽 Slides\nGreen method to solve the Laplacian equation of electric potential given a general charge distribution 🔽 Slides\nMontecarlo methods for statistical mecanics\nNumerical simulation and analysis of the phase transition in 2-D Ising model 🔽 Slides\n\n\n\nThesis\n\nModello di Vicsek topologico analizzato con tecniche di Machine Learning (Topological Vicsek model analyzed with Machine Learning methods) 🔽 Slides\nSelf-attention as an attractor network: transient memories without backpropagation 🔽 Poster\nROccella Conference on Inference and AI, Roccella Ionica, 1-5/09/24\nSISSA Journal Club — Trieste, 11/10/2024"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Below is a complete list of my publications.\n\n\n\n\nReferences\n\nAngelini, M., Avila-González, M., D’Amico, F., Machado, D., Mulet, R., & Ricci-Tersenghi, F. (2025). Algorithmic thresholds in combinatorial optimization depend on the time scaling. arXiv Preprint arXiv:2504.11174.\n\n\nD’Amico, F., Bocchi, D., Del Bono, L. M., Rossi, S., & Negri, M. (2025). Pseudo-likelihood produces associative memories able to generalize, even for asymmetric couplings. arXiv Preprint arXiv:2507.05147.\n\n\nD’Amico, F., Bocchi, D., & Negri, M. (2025). Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks. arXiv Preprint arXiv:2505.13230.\n\n\nD’Amico, F., & Negri, M. (2024). Self-attention as an attractor network: Transient memories without backpropagation. 2024 IEEE Workshop on Complexity in Engineering (COMPENG), 1–6.\n\n\nNicoletti, F., D’Amico, F., & Negri, M. (2025). Statistical mechanics of vector hopfield network near and above saturation. arXiv Preprint arXiv:2507.02586."
-  },
-  {
-    "objectID": "tutoring.html",
-    "href": "tutoring.html",
-    "title": "Tutoring",
-    "section": "",
-    "text": "Work in progress\n\n\n\n\n\nWork in progress\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
-  },
-  {
-    "objectID": "tutoring.html#analisi-1-per-fisica",
-    "href": "tutoring.html#analisi-1-per-fisica",
-    "title": "Tutoring",
-    "section": "",
-    "text": "Work in progress\n\n\n\n\n\nWork in progress\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
-  },
-  {
-    "objectID": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
-    "href": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
-    "title": "Tutoring",
-    "section": "Calcolo e statistica per Biotecnologie",
-    "text": "Calcolo e statistica per Biotecnologie\n\nDispense ed esercizi\n\nWork in progress"
-  },
-  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks and Posters",
@@ -68,6 +19,13 @@
     "title": "Talks and Posters",
     "section": "2024",
     "text": "2024\n\nTalks\n\nSelf-attention as an attractor network: transient memories without backpropagation 🔽 Slides\nSISSA Journal Club — Trieste, 11/10/2024\n\n\n\nPosters\n\nSelf-attention as an attractor network: transient memories without backpropagation 🔽 Poster\nROccella Conference on Inference and AI, Roccella Ionica, 1-5/09/24\nSISSA Journal Club — Trieste, 11/10/2024"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a complete list of my publications.\n\n\n\n\nReferences\n\nAngelini, M., Avila-González, M., D’Amico, F., Machado, D., Mulet, R., & Ricci-Tersenghi, F. (2025). Algorithmic thresholds in combinatorial optimization depend on the time scaling. arXiv Preprint arXiv:2504.11174.\n\n\nD’Amico, F., Bocchi, D., Del Bono, L. M., Rossi, S., & Negri, M. (2025). Pseudo-likelihood produces associative memories able to generalize, even for asymmetric couplings. arXiv Preprint arXiv:2507.05147.\n\n\nD’Amico, F., Bocchi, D., & Negri, M. (2025). Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks. arXiv Preprint arXiv:2505.13230.\n\n\nD’Amico, F., & Negri, M. (2024). Self-attention as an attractor network: Transient memories without backpropagation. 2024 IEEE Workshop on Complexity in Engineering (COMPENG), 1–6.\n\n\nNicoletti, F., D’Amico, F., & Negri, M. (2025). Statistical mechanics of vector hopfield network near and above saturation. arXiv Preprint arXiv:2507.02586."
   },
   {
     "objectID": "about.html",
@@ -103,5 +61,47 @@
     "title": "About",
     "section": "Download CV",
     "text": "Download CV\n\nEnglish CV\n\nItalian Europass CV"
+  },
+  {
+    "objectID": "tutoring.html",
+    "href": "tutoring.html",
+    "title": "Tutoring",
+    "section": "",
+    "text": "Work in progress\n\n\n\n\n\nWork in progress\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
+  },
+  {
+    "objectID": "tutoring.html#analisi-1-per-fisica",
+    "href": "tutoring.html#analisi-1-per-fisica",
+    "title": "Tutoring",
+    "section": "",
+    "text": "Work in progress\n\n\n\n\n\nWork in progress\n🔗 Visualizza PDF\n🔽 Scarica PDF{download}"
+  },
+  {
+    "objectID": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
+    "href": "tutoring.html#calcolo-e-statistica-per-biotecnologie",
+    "title": "Tutoring",
+    "section": "Calcolo e statistica per Biotecnologie",
+    "text": "Calcolo e statistica per Biotecnologie\n\nDispense ed esercizi\n\nWork in progress"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Tecniche osservative e modellistiche per lo studio dell’atmosfera e del clima (Observative and theoretical techniques for the study of atmosphere and climate) 🔽 Slides\n\n\n\n\n\nThe random features p-spin Hopfield model 🔽 Poster\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning 🔽 Poster\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes 🔽 Poster"
+  },
+  {
+    "objectID": "projects.html#masters-degree",
+    "href": "projects.html#masters-degree",
+    "title": "Projects",
+    "section": "",
+    "text": "Tecniche osservative e modellistiche per lo studio dell’atmosfera e del clima (Observative and theoretical techniques for the study of atmosphere and climate) 🔽 Slides\n\n\n\n\n\nThe random features p-spin Hopfield model 🔽 Poster\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning 🔽 Poster\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes 🔽 Poster"
+  },
+  {
+    "objectID": "projects.html#bachelor-degree",
+    "href": "projects.html#bachelor-degree",
+    "title": "Projects",
+    "section": "Bachelor degree",
+    "text": "Bachelor degree\n\nExcellence program\n\nGreen method\nStudy of a one-dimensional oscillator with a general force applied 🔽 Slides\nGreen method to solve the Laplacian equation of electric potential given a general charge distribution 🔽 Slides\nMontecarlo methods for statistical mecanics\nNumerical simulation and analysis of the phase transition in 2-D Ising model 🔽 Slides\n\n\n\nThesis\n\nModello di Vicsek topologico analizzato con tecniche di Machine Learning (Topological Vicsek model analyzed with Machine Learning methods) 🔽 Slides\nSelf-attention as an attractor network: transient memories without backpropagation 🔽 Poster\nROccella Conference on Inference and AI, Roccella Ionica, 1-5/09/24\nSISSA Journal Club — Trieste, 11/10/2024"
   }
 ]
