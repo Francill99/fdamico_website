@@ -10,7 +10,7 @@ website:
 
   navbar:
     left:
-      - text: "<img src='images/logo.png' style='height:25px; vertical-align:middle; margin-right:4px;'> About"
+      - text: "About"
         href: about.qmd
       - text: "Research"
         menu:
