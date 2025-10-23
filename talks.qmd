@@ -14,6 +14,8 @@ format:
 
   Chimera group Journal Club - Sapienza University of Rome, **07/10/2025** 
 
+  Statistical mechanics group - University of Parma, **23/10/2025** 
+
 - **Statistical mechanics of autoregressive models: towards a theory of Self-Attention** 🔽 [Slides](files/talks/2025/Presentazione_phd_talks.pdf)
 
   PhD talks - Sapienza University of Rome, **16/10/2025**
