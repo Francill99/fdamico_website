@@ -9,15 +9,11 @@ format:
 ## Analisi 1 per Fisica
 
 ### Programma & calendario
-- Work in progress
+- 2 hours for students Pet-Z, exercises at blackboard on series
+- 1 hour for students Giu-Pes, exercises at blackboard on limits of functions  
 
-### Dispense ed esercizi
-- Work in progress  
-  🔗 [Visualizza PDF](files/tutoring/analisi1/esercizi_set_01_derivate.pdf){target="_blank"}  
-  🔽 [Scarica PDF](files/tutoring/analisi1/esercizi_set_01_derivate.pdf){download}
 
 ## Calcolo e statistica per Biotecnologie
 
-### Dispense ed esercizi
-- Work in progress
+From 11/2024 to 02/2025, 30 hours of exercises at blackboard, online discussions and exam support for students
 
