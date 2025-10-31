@@ -10,7 +10,7 @@ format:
 
 ### Thesis
 
-- *The random features p-spin Hopfield model* 🔽 [Poster](files/projects/Tesi_magistrale_D_Amico.pdf)
+- *The random features p-spin Hopfield model* 🔽 [pdf](files/projects/Tesi_magistrale_D_Amico.pdf)
 
 ### Laboratory experiences
 
