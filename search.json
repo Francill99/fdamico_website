@@ -4,21 +4,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Tecniche osservative e modellistiche per lo studio dell’atmosfera e del clima (Observative and theoretical techniques for the study of atmosphere and climate) 🔽 Slides\n\n\n\n\n\nThe random features p-spin Hopfield model 🔽 Poster\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning 🔽 Poster\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes 🔽 Poster"
+    "text": "The random features p-spin Hopfield model 🔽 Poster\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
   },
   {
     "objectID": "projects.html#masters-degree",
     "href": "projects.html#masters-degree",
     "title": "Projects",
     "section": "",
-    "text": "Tecniche osservative e modellistiche per lo studio dell’atmosfera e del clima (Observative and theoretical techniques for the study of atmosphere and climate) 🔽 Slides\n\n\n\n\n\nThe random features p-spin Hopfield model 🔽 Poster\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning 🔽 Poster\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes 🔽 Poster"
+    "text": "The random features p-spin Hopfield model 🔽 Poster\n\n\n\n\n\nBiophysics laboratory: Studio dei siti di binding di complessi proteici e analisi dell’affinità di legame attraverso modelli di machine learning (Analysis with machine learning methods of binding sites in protein complexes) 🔽 pdf\nComputational physics - statistical mechanics: Simulazione Montecarlo di un ensamble NPT di Hard Boxes (Montecarlo simulation of an NPT ensemble of Hard Boxes) 🔽 pdf"
   },
   {
     "objectID": "projects.html#bachelor-degree",
     "href": "projects.html#bachelor-degree",
     "title": "Projects",
     "section": "Bachelor degree",
-    "text": "Bachelor degree\n\nExcellence program\n\nGreen method\nStudy of a one-dimensional oscillator with a general force applied 🔽 Slides\nGreen method to solve the Laplacian equation of electric potential given a general charge distribution 🔽 Slides\nMontecarlo methods for statistical mecanics\nNumerical simulation and analysis of the phase transition in 2-D Ising model 🔽 Slides\n\n\n\nThesis\n\nModello di Vicsek topologico analizzato con tecniche di Machine Learning (Topological Vicsek model analyzed with Machine Learning methods) 🔽 Slides\nSelf-attention as an attractor network: transient memories without backpropagation 🔽 Poster\nROccella Conference on Inference and AI, Roccella Ionica, 1-5/09/24\nSISSA Journal Club — Trieste, 11/10/2024"
+    "text": "Bachelor degree\n\nExcellence program\n\nTheoretical study of Green method and numerical applications to real problems\nGreen method to solve a one-dimensional oscillator with a general force applied 🔽 pdf\nGreen method to solve the Laplacian equation of electric potential given a general charge distribution 🔽 pdf\nMontecarlo methods for statistical mecanics\nMy first statistical mechanics numerical study: I analyzed the phase transition in 2-D Ising model 🔽 numerical phase transition\n\n\n\nThesis\n\nModello di Vicsek topologico analizzato con tecniche di Machine Learning (Topological Vicsek model analyzed with Machine Learning methods). I performed parallel dynamics on GPUs of flock of birds and I used a DGCNN model to infer hidden parameters of simulations. 🔽 Thesis"
   },
   {
     "objectID": "publications.html",
