@@ -8,10 +8,7 @@ format:
 
 ## Analisi 1 per Fisica
 
-### Programma & calendario
-- 2 hours for students Pet-Z, exercises at blackboard on series
-- 1 hour for students Giu-Pes, exercises at blackboard on limits of functions  
-
+From 10/2025 to 02/2026, 40 hours of exercises at blackboard, online discussions and exam support for students
 
 ## Calcolo e statistica per Biotecnologie
 
