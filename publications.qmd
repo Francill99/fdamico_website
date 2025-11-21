@@ -11,6 +11,9 @@ format:
     toc: true
     toc-depth: 2
     citation-links: true
+
+csl-bib-body:
+  sorting: descending
 ---
 
 
