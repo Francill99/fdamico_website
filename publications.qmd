@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 bibliography: publications.bib
-csl: csl: publications.csl     
+csl: publications.csl     
 nocite: |
   @*
 
