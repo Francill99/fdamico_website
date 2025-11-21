@@ -86,19 +86,26 @@
 
     <layout>
       <group>
-        <!-- 1st line: title -->
+        <!-- 1st line: title in bold -->
         <text variable="title"
-              font-style="italic"
+              font-weight="bold"
               display="block"/>
 
-        <!-- 2nd line: authors -->
+        <!-- 2nd line: authors (we'll bold your name via a filter below) -->
         <text macro="author"
+              font-style="italic"
               display="block"/>
 
         <!-- 3rd line: year + other info -->
         <group display="block" delimiter=". ">
           <text macro="year"/>
           <text macro="details"/>
+        </group>
+
+        <!-- 4th line: TL;DR + abstract in italics -->
+        <group display="block">
+          <text value="TL;DR: " font-weight="bold"/>
+          <text variable="abstract" font-style="italic"/>
         </group>
       </group>
     </layout>
