@@ -4,8 +4,7 @@ bibliography: publications.bib
 csl: https://www.zotero.org/styles/apa
 nocite: |
   @*
-filters:
-  - filters/bibsort_and_tldr.lua
+
 format:
   html:
     toc: true
